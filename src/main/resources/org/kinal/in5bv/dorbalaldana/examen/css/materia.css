@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27/09/2022, 22:07:24
+    Author     : USUARIO
+*/
+
+#panel-navegacion{
+    -fx-background-color:  #000;
+}
+
+#pane-entidad{
+    -fx-background-color:  #c8c8d2;
+    -fx-background-radius:  0 0 35 35;
+}
+
+.botones-crud{
+    -fx-background-color:  #000;
+    -fx-text-fill: #FFFFFF;
+}
+
+.botones-crud:hover{
+    -fx-background-color: #777;
+    -fx-text-fill: #000000;
+}
